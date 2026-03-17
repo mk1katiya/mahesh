@@ -1344,31 +1344,3 @@ input[type="color"],
         width: 0%
     }
 }
-
-
-
-
-
-
-
-
-/* new add */
-
-.circle-box {
-    position: relative;
-    text-align: center;
-}
-
-.circle {
-    width: 100%;
-}
-
-.logo-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 22px;
-    font-weight: 600;
-    color: #A2A5B1;
-}
